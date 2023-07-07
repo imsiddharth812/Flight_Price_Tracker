@@ -1,5 +1,5 @@
 KIWI_ENDPOINT = "https://api.tequila.kiwi.com/v2/search?"
-KIWI_API_KEY = "LOSX3FlKp4Nz6yRBdfUGPxH8Hg9-AqpT"
+KIWI_API_KEY = "YOU KIWI API KEY"
 
 
 class FlightData:
