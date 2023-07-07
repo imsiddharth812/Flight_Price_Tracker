@@ -16,6 +16,8 @@ SCOPES = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/a
         # Define the necessary scopes for accessing Google Sheets and Drive
 
 CREDS = Credentials.from_service_account_file("sheet_credentials.json", scopes=SCOPES)
+# for sheet_credentials.json, please refer this link https://docs.gspread.org/en/latest/oauth2.html
+# you will get an idea how you can create google cloud project and access the sheet where all the data is mentioned.
 # Create credentials by loading the service account file and specifying the desired scopes
 
 CLIENT = gspread.authorize(CREDS)
