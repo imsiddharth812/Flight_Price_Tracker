@@ -9,10 +9,10 @@ PASSWORD = os.environ.get("Password")
 
 
 # Telegram Bot API Token
-TELEGRAM_TOKEN = '6019029128:AAHAaLekpeluUeYHm6nH0Uu4a2TqIG-_qCk'
+TELEGRAM_TOKEN = 'YOUR TELEGRAM BOT TOKEN'
 
 # Channel ID (including the @ symbol)
-CHANNEL_ID = '@flightclubdeals'
+CHANNEL_ID = 'YOUR TELEGRAM CHANNEL ID'
 
 # This class is responsible for sending notifications with the deal flight details.
 
