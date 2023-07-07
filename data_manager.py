@@ -5,7 +5,7 @@ from pprint import pprint as pp  # Import pprint from pprint module for pretty-p
 
 
 
-KIWI_API_KEY = "LOSX3FlKp4Nz6yRBdfUGPxH8Hg9-AqpT"
+KIWI_API_KEY = "YOUR KIWI API KEY"
 KIWI_LOCATION_ENDPOINT = "https://api.tequila.kiwi.com/locations/query"
 
 KIWI_HEADERS = {
